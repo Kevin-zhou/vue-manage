@@ -1,5 +1,3 @@
-# vue-manage
-vue后台管理,模块化文件,键入echart,Vuex,vue-router.element-UI一套很方便做后台管理的脚手架
 
 # To start
 
